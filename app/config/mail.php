@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'postmaster@sandbox7d67c0620e204c84b395c0618ff3c788.mailgun.org', // of masiur's 
+	'username' => 'postmaster@sandbox7d67c0620e204c84b395c0618ff3c788.mailgun.org', 
 
 	/*
 	|--------------------------------------------------------------------------
@@ -119,6 +119,6 @@ return array(
 	|
 	*/
 
-	'pretend' => false,
+	'pretend' => true,
 
 );
