@@ -10,6 +10,7 @@
                             <a class="btn btn-success btn-sm btn-new-user" href="{{ URL::route('reward.create') }}">Add Reward</a>
                     </span>
                 </header>
+                
                 <div class="panel-body">
                     @if(count($rewards))
                         <table class="display table table-bordered table-striped" id="example">
