@@ -8,6 +8,7 @@ class EmployeeController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 		$users = Profile::all();
