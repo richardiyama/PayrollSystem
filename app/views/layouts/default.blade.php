@@ -9,6 +9,7 @@
     	@include('includes.sideBar')
     @else
     @endif
+    
     <section id="main-content">
         <section class="wrapper site-min-height">
             @yield('content')
