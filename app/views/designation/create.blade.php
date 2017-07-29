@@ -4,7 +4,8 @@
         <div class="col-md-12">
             @include('includes.alert')
             <section class="panel">
-                <header class="panel-heading">
+                
+		<header class="panel-heading">
                     {{ $title }}
                     <span class="pull-right">
 
