@@ -8,6 +8,7 @@ class SalaryController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 		$salary = SalaryRank::all(); 
