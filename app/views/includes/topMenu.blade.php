@@ -6,6 +6,7 @@
           <a href="{{route('dashboard')}}" class="logo" >Payroll Management System</a>
           <!--logo end-->
 
+          
           <div class="top-nav ">
               <ul class="nav pull-right top-menu">
 
