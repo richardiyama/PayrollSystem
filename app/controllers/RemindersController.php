@@ -17,6 +17,7 @@ class RemindersController extends Controller {
 	 *
 	 * @return Response
 	 */
+	
 	public function postRemind()
 	{
 		switch ($response = Password::remind(Input::only('email')))
