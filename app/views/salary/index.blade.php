@@ -26,6 +26,7 @@
                             @foreach($salary as $salary)
                                 <tr>
                                 
+                                    
                                     <td>{{ $salary->rank }} </td>
                                     <td>{{ $salary->basic }}</td>
                                     <td>{{ $salary->bonus }}%</td>
