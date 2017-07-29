@@ -1,7 +1,8 @@
 @extends('layouts.default')
 @section('content')
     <div class="row">
-        <div class="col-md-12">
+        
+	<div class="col-md-12">
             @include('includes.alert')
             <section class="panel">
                 <header class="panel-heading">
