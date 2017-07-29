@@ -5,6 +5,7 @@ use Faker\Factory as Faker;
 
 class SalaryRankTableSeeder extends Seeder {
 
+	
 	public function run()
 	{
 		$faker = Faker::create();
