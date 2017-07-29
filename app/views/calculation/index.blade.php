@@ -10,6 +10,7 @@
 
                     </span>
                 </header>
+                
                 <div class="panel-body">
                     {{ Form::open(array('route' => 'status.show', 'class' => 'form-horizontal')) }}
 
