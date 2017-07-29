@@ -10,7 +10,8 @@
                       <li>
                           <p class="yellow">You have 7 new notifications</p>
                       </li>
-                      <li>
+                     
+                     <li>
                           <a href="#">
                               <span class="label label-danger"><i class="fa fa-bolt"></i></span>
                               Server #3 overloaded.
