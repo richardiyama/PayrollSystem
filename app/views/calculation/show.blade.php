@@ -8,6 +8,7 @@
                   
                   <aside class="profile-info col-lg-9">
                       <section class="panel">
+                          
                           <div class="panel-body bio-graph-info">
                               <h1>{{ $title }} ID: <span style="color:red">{{ $status->employeeID }}</span></h1>
                               <div class="row">
