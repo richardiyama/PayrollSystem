@@ -5,6 +5,7 @@ use Faker\Factory as Faker;
 
 class PermissionsTableSeeder extends Seeder {
 
+	
 	public function run()
 	{
 		//$faker = Faker::create();
