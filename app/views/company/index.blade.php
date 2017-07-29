@@ -3,6 +3,7 @@
     <div class="row">
         <div class="col-lg-12">
             @include('includes.alert')
+            
             <section class="panel">
                 <header class="panel-heading clearfix">
                     {{ $title }}
