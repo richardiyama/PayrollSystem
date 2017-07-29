@@ -11,6 +11,7 @@
 
 </section>
 
+
   	{{ HTML::script('js/jquery.js') }}
   	{{ HTML::script('js/bootstrap.min.js') }}
   	{{ HTML::script('js/jquery.dcjqaccordion.2.7.js', array('class' => 'include')) }}
