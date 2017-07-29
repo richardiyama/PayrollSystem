@@ -10,6 +10,7 @@
                           <p class="red">You have 5 new messages</p>
                       </li>
                       <li>
+                          
                           <a href="#">
                               <span class="photo"><img alt="avatar" src="./img/avatar-mini.jpg"></span>
                                     <span class="subject">
