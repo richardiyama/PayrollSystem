@@ -7,6 +7,7 @@ class RewardTableSeeder extends Seeder {
 
 	public function run()
 	{
+		
 		$faker = Faker::create();
 		$users = User::all();
 		foreach($users as $index)
