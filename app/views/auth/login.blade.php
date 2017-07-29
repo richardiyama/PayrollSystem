@@ -10,6 +10,7 @@
 
     <title>{{ $title }} - {{ Config::get('customConfig.names.siteName')}}</title>
 
+    
     {{ HTML::style('css/bootstrap.min.css') }}
     {{ HTML::style('css/bootstrap-reset.css') }}
     {{ HTML::style('fonts/font-awesome/css/font-awesome.css') }}
