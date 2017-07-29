@@ -8,6 +8,7 @@ class RewardController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 		$reward = Reward::all(); 
