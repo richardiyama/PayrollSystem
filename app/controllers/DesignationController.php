@@ -8,6 +8,7 @@ class DesignationController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 		$Designations = Designation::all(); 
