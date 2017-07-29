@@ -4,7 +4,8 @@
 <p>Your name has been listed in the Payroll System.</p>
 <br>
 
- You can login with this following credentials<br>
+
+You can login with this following credentials<br>
  <p>E-mail:{{ $mail }}</p>
  <p>Password:{{ $password }}</p><br>
 
