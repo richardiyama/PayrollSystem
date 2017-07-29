@@ -8,6 +8,7 @@
     <meta name="keyword" content="">
     <link rel="shortcut icon" href="img/favicon.png">
 
+    
     <title>{{ $title or "Delivery" }} - {{ Config::get('customConfig.names.siteName')}}</title>
 
     {{ HTML::style('css/bootstrap.min.css') }}
