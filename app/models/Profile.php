@@ -8,6 +8,7 @@ class Profile extends \Eloquent {
 		return $this->belongsTo('User', 'user_id', 'id');
 	}
 
+	
 	public static function random() {
 		$value =  mt_rand(100100,109999);
 		return $value;
