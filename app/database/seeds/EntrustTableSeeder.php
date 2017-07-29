@@ -5,6 +5,7 @@ use Faker\Factory as Faker;
 
 class EntrustTableSeeder extends Seeder {
 
+	
 	public function run()
 	{
 		$admin = Role::find(1);
