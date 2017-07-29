@@ -6,7 +6,8 @@
                       <a href="#" class="pull-left media-thumb">
                           <img alt="" src="img/chat-avatar2.jpg" class="media-object">
                       </a>
-                      <div class="media-body">
+                     
+                     <div class="media-body">
                           <strong>John Doe</strong>
                           <small>Dream Land, AU</small>
                       </div>
