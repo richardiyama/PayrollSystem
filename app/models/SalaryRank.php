@@ -8,6 +8,7 @@ class SalaryRank extends \Eloquent {
 	// 	return $this->belongsTo('User', 'user_id', 'id');
 	// }
 
+	
 	public function companyprofile() {
 		return $this->hasMany('CompanyProfile', 'rank_id', 'id');
 	}
