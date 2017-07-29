@@ -8,6 +8,7 @@ class CompanyController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 
