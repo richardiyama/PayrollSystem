@@ -8,6 +8,7 @@ class SalaryCalculationController extends \BaseController {
 	 *
 	 * @return Response
 	 */
+	
 	public function index()
 	{
 		return View::make('calculation.index')
