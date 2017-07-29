@@ -7,6 +7,7 @@ class ProfileTableSeeder extends Seeder {
 
 	public function run()
 	{
+		
 		$faker = Faker::create();
 		$user = User::all();
 		foreach($user as $index)
